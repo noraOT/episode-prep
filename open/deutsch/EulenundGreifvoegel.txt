@@ -14,7 +14,7 @@ ___________________________________________________________
   - Lebenserwartung
   - Jungenaufzucht
   - Ernährung
-  - Größe des Reviers
+  - Größe des Reviers (schwer zu beantworten!)
   - gibt es Zugvögel unter ihnen?
 * Anpassung des Körpers an Lebensraum und Lebensweise
   - Was ermöglicht es dem Vogel, so schnell zu fliegen und so gut zu sehen?
@@ -23,11 +23,6 @@ ___________________________________________________________
 
 Fragen zum Fliegen
 -----------------------------------------------
-* Wie finden Greifvögel Thermik? Wolkenoptik? Bodenmerkmale?
-* Wie schaffen es Greifvögel wenn sie Thermik gefunden haben, genau
-  ins Zentrum zu gelangen? Haben sie eine Art Variometer eingebaut?
-* Warum findet man Greifvögel in 2000m in der Thermik? Aus dieser Höhe
-  können sie wohl keine Mäuse erkennen. 
 * Fliegen Greifvögel bei (thermisch) gutem Wetter auch zum Spass da oben rum?
   So wie Hunde bspw. gerne rumrennen, ohne tieferen Sinn?
 
